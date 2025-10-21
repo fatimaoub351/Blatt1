@@ -72,11 +72,11 @@ S ->F A
 
 Beispiel 2 : p_car
 
-S ->P A
+S -> p A
 
-  -> P _ B
+  -> p _ B
   
-  ->p _ c A
+  -> p _ c A
   
   -> p _ c a A
   
