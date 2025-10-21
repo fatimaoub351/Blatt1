@@ -126,6 +126,9 @@ Sie erlaubt nur eine einzige Domain-Ebene (z. B. @fsbi.de), aber keine mehrstufi
 
 Aufgabe 5:
 
+
+Aufgabe 6:
+
 S->aA 
 
 A-> dB | bA | cA 
@@ -140,5 +143,7 @@ Regulären Ausdruck:
 
 a (b|c)* d ( c (b|c)* d )* (a|b)  
 
-DFA:
+
+
+
 
