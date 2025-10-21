@@ -62,8 +62,27 @@ A → aA | bA | .... | zA | AA | .... | ZA | 0A | 1A | .... | 9A | _B | a | b | 
 
 B → aA | bA | .... | zA | AA | .... | ZA | 0A | 1A | .... | 9A    
 
-Beispiel 1: 
-Beispiel 2
+Beispiel 1: Fx2
+
+S ->F A
+
+  -> F x A
+  
+  ->F x 2
+
+Beispiel 2 : p_car
+
+S ->P A
+
+  -> P _ B
+  
+  ->p _ c A
+  
+  -> p _ c a A
+  
+  -> p _ c a r
+
+
 
 Aufgabe 3:
 
